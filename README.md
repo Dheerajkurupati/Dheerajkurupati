@@ -21,7 +21,7 @@ Aspiring Software Developer | Data Science Enthusiast
 </h3>
 
 <p align="center">
-Passionate about Full Stack Development, AI, and Cloud Technologies.
+Passionate about  AI,Machine Learning and Cloud Technologies.
 </p>
 
 ---
