@@ -57,14 +57,6 @@ Passionate about  AI,Machine Learning and Cloud Technologies.
 ![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dheerajkurupati&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheerajkurupati&layout=compact&theme=tokyonight"/>
-</p>
-
 
 ## ✨ Quote
 
